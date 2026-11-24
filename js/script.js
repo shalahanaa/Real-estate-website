@@ -1,6 +1,6 @@
 
 let slideIndex = 0;
-
+//  Pjesa e fotove qe ndrrohen
 const slides = document.querySelectorAll(".slide");
 const dots = document.querySelectorAll(".dot");
 
